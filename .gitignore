@@ -3,3 +3,8 @@
 ################################################################################
 
 /GitProject/.vs/GitProject/v15
+/GitProject/GitProject/GitProject/obj
+/GitProject/GitProject/GitProject.Android/obj
+/GitProject/GitProject/GitProject.iOS/obj
+/GitProject/GitProject/GitProject/bin/Debug/netstandard2.0
+/GitProject/GitProject/GitProject.Android/bin/Debug
