@@ -31,6 +31,7 @@ namespace GitProject
             containerRegistry.RegisterForNavigation<NavigationPage>();
             containerRegistry.RegisterForNavigation<MainPage, MainPageViewModel>();
             containerRegistry.RegisterForNavigation<UI1>();
+            containerRegistry.RegisterForNavigation<UI2, UI2ViewModel>();
         }
     }
 }

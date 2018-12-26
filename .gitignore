@@ -8,3 +8,5 @@
 /GitProject/GitProject/GitProject.iOS/obj
 /GitProject/GitProject/GitProject/bin/Debug/netstandard2.0
 /GitProject/GitProject/GitProject.Android/bin/Debug
+/.vs
+/GitProject/.vs/GitProject/DesignTimeBuild
